@@ -20,17 +20,7 @@ Your system will need to be configured with the following programs:
 - `htlatex` - for compiling LaTeX to HTML (see 
 - `chktex` - linting your .tex files
 
-Your OS will probably have a meta-package that installs all of these at once.
-
-On Ubuntu:
-```bash
-$ sudo apt-get install texlive-full
-```
-
-On MacOS:
-```bash
-$ brew cask install mactex
-```
+Installing TeX Live over the Internet for your system [[link](https://tug.org/texlive/acquire-netinstall.html)]
 
 ## Organization
 
